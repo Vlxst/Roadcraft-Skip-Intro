@@ -6,10 +6,8 @@ Emu. It works independently of the LAN emulator.
 
 ## Tested setup
 
-Tested on **RoadCraft for Steam, build 7.4.PATCH.763699 / 767189**, with
-[Goldberg Steam Emulator (GBE Fork)](https://github.com/Detanup01/gbe_fork).
-The mod targets the game's boot sequence. Other startup screens may still
-appear. Compatibility with other game builds is unverified.
+Tested on **RoadCraft for Steam, build 7.4.PATCH.763699 / 767189**
+The mod targets the game's boot sequence.
 
 ## Installation
 
