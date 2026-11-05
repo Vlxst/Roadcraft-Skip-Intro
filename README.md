@@ -1,6 +1,6 @@
 # RoadCraft Skip Intro
 
-An experimental Windows x64 mod that advances RoadCraft's startup logo
+An mod that skip RoadCraft's startup logo
 sequence. I made it to shorten repeated launches while developing RoadCraft LAN
 Emu. It works independently of the LAN emulator.
 
